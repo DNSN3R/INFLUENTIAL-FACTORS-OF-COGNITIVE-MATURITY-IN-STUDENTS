@@ -10,6 +10,7 @@ The primary objectives of this study are:
 3. To assess the significance of these factors in explaining variations in cognitive maturity levels among individuals.
    
 Methodology
+
 The study employs a quantitative cross-sectional design, using structured questionnaires distributed electronically. Data was collected from a diverse sample and analyzed using various statistical methods, including descriptive analysis, inferential analysis (hypothesis testing and regression), and predictive or classification methods (hierarchical agglomerative clustering).
 
 Key Findings
